@@ -46,4 +46,4 @@ Sample payloads are available via seeded data; see `db/seeds.rb` for context.
 - [x] Report (this README) + include your GitHub repository link when submitting to the LMS/portal
 
 ## GitHub
-- Repository URL: _add your public repo link here after pushing_
+- Repository URL: https://github.com/Yahyaa147/ruby-on-rails-assignment
