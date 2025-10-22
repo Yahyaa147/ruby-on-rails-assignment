@@ -38,12 +38,12 @@ Sample payloads are available via seeded data; see `db/seeds.rb` for context.
 - Run `bin/rails test` for model and request coverage.
 - Tests verify validations, associations, and the greeting endpoint.
 
-## Submission Checklist
-- [x] API-only Rails app with five related models
-- [x] Greeting endpoint
-- [x] Seeds demonstrating relationships
-- [x] Automated tests
-- [x] Report (this README) + include your GitHub repository link when submitting to the LMS/portal
+## Requirement Coverage
+- Delivers an API-only Rails application with five related models.
+- Exposes the greeting endpoint required by the assignment brief.
+- Ships with seed data that demonstrates the model relationships.
+- Provides automated tests for the key models and endpoints.
+- Documents the work in this README and links to the public repository.
 
 ## GitHub
 - Repository URL: https://github.com/Yahyaa147/ruby-on-rails-assignment
